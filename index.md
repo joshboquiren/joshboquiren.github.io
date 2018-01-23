@@ -1,8 +1,7 @@
 #Assign3-Vigenere-Encode-JJB.py
 #Josh Boquiren
 #26 October 2017
-#A program to input a file, encrypt its content based on the Vigenere method
-#   and output the results to a file
+#A program to input a file, encrypt its content based on the Vigenere method and output the results to a file
 
 from graphics import *
 def main():
