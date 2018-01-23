@@ -5,11 +5,12 @@
 
 from graphics import *
 def main():
-    
+
     win = GraphWin("VigenereEncode-JJB",500,300)
     win.setBackground("grey")
     alpha = "abcdefghijklmnopqrstuvwxyz"
     encrypting = ''
+    
 #Input file entry
     prompt1 = Text(Point(120,30),"Enter name of file to be encrypted")
     prompt1.draw(win)
