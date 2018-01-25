@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang='en'>
-<head>
-    <title>Josh Boquiren - GitHub</title>
-    <meta charset="utf-h">
-    <style>
-        h1      {border: 5px solid rgba(0,0,0,.2); background-color:rgba(60,60,60,.2)}
-        body    {background-color: rgb(240,240,240);}
-        p 	    {font-family: courier new}
-    </style>
-</head>
+
         
 <body>
     
